@@ -10,6 +10,10 @@ Ethereum Yellow Paper https://ethereum.github.io/yellowpaper/paper.pdf
 
 Mastering Ethereum Github https://github.com/ethereumbook/ethereumbook
 
+https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/
+
+
+
 
 My Ethereum Videos:
 
